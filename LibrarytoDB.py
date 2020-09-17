@@ -1,6 +1,6 @@
-# This python Script is used as an standalone exe in the SCO runbook.
+
 # It is first step of the VMware Template Sync.
-# This will insert the list of all the subscribed content libraries to the DB Table 'VT_Template'
+# This will insert the list of all the subscribed content libraries to the DB Table 
 
 # The script has two functions: 1) Get Subscribed Library 2) Insert Library to DB
 
